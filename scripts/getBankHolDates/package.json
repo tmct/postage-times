@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs-promise": "^1.0.0",
     "lodash": "^4.17.4",
+    "request": "^2.79.0",
     "request-promise": "^4.1.1"
   }
 }
