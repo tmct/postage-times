@@ -1,12 +1,8 @@
 package uk.co.tmmct.postagetimes;
 
 import android.app.Activity;
-import android.app.DatePickerDialog;
-import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.View;
-import android.widget.CalendarView;
 import android.widget.DatePicker;
 
 import java.util.Calendar;
